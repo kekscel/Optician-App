@@ -1,0 +1,79 @@
+CREATE TABLE [dbo].[firma]
+(
+	[firmano] BIGINT NOT NULL PRIMARY KEY, 
+    [firmaad] VARCHAR(55) NULL, 
+    [firmatür] VARCHAR(55) NULL, 
+    [firmatelefon] VARCHAR(11) NULL, 
+)
+
+CREATE TABLE [dbo].[musteri]
+(
+	[mtc] BIGINT NOT NULL PRIMARY KEY, 
+    [misim] VARCHAR(55) NULL, 
+    [msoyad] VARCHAR(55) NULL, 
+    [mtelefon] VARCHAR(11) NULL, 
+    [mgözdurum] VARCHAR(155) NULL, 
+    [mnot] VARCHAR(155) NULL
+)
+
+CREATE TABLE [dbo].[ödeme]
+(
+	[mtcno] BIGINT NOT NULL, 
+    [fiyat] INT NULL, 
+    [alınan] INT NULL, 
+    [kalan] INT NULL,
+    [ödemetarih] DATETIME NULL,
+	FOREIGN KEY(mtcno) references musteri(mtc)
+)
+
+CREATE TABLE [dbo].[camlar]
+(
+	[camtürno] INT NOT NULL PRIMARY KEY, 
+    [camfirma] BIGINT NULL, 
+    [camtürad] VARCHAR(55) NULL, 
+    [camtürözellik] VARCHAR(255) NULL, 
+    [camadet] INT NULL,
+    FOREIGN KEY(camfirma) references firma(firmano)
+)
+
+CREATE TABLE [dbo].[cerceveler]
+(
+	[certürno] INT NOT NULL PRIMARY KEY, 
+    [cercevefirma] BIGINT NULL, 
+    [cercevead] VARCHAR(55) NULL, 
+    [cerceveözellik] VARCHAR(255) NULL, 
+    [cerceveadet] INT NULL,
+    FOREIGN KEY(cercevefirma) references firma(firmano)
+)
+
+CREATE TABLE [dbo].[muhasebe]
+(
+	[islemno] BIGINT NOT NULL PRIMARY KEY, 
+    [islemyapanisim] VARCHAR(55) NULL, 
+    [islemaciklama] VARCHAR(55) NULL, 
+    [islemtür] VARCHAR(55) NULL, 
+    [islemtutar] INT NULL, 
+    [islemtarih] DATETIME NULL, 
+)
+
+INSERT INTO firma (firmano, firmaad, firmatür, firmatelefon) VALUES
+(10, 'AAA', 'Cam', 0537),
+(1, 'BBB', 'Çerçeve', 0537),
+(5, 'CCC', 'Hepsi', 0537);
+
+INSERT INTO musteri (mtc, misim, msoyad, mtelefon, mgözdurum, mnot) VALUES
+(1, 'C', 'C', '0532', 'C', 'C'),
+(3, 'A', 'A', '0532', 'A', 'A'),
+(5, 'B', 'B', '0532', 'B', 'B');
+
+INSERT INTO ödeme (mtcno, fiyat, alınan, kalan, ödemetarih) VALUES
+(1, 9200, 4000, 5200, '2022-10-26 12:30:44');
+
+INSERT INTO camlar(camtürno, camfirma, camtürad, camtürözellik, camadet) VALUES
+(15, 10, 'A', 'A', 10);
+
+INSERT INTO cerceveler(certürno, cercevefirma, cercevead, cerceveözellik, cerceveadet) VALUES
+(15, 1, 'B', 'B', 10);
+
+INSERT INTO muhasebe(islemno, islemyapanisim, islemaciklama, islemtür, islemtutar, islemtarih) VALUES
+(1, 'AA','AA', 'Gelir', 1500, '2022-10-26 12:00:44');

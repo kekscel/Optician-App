@@ -1,0 +1,342 @@
+C:\Users\Ramazan\Desktop\proje\proje\proje\bin\Debug\proje.exe.config
+C:\Users\Ramazan\Desktop\proje\proje\proje\bin\Debug\proje.exe
+C:\Users\Ramazan\Desktop\proje\proje\proje\bin\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.Giriş.resources
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.Menü.resources
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.exe
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.Camlar.resources
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\aligu\Desktop\proje\proje\proje\bin\Debug\proje.exe.config
+C:\Users\aligu\Desktop\proje\proje\proje\bin\Debug\proje.exe
+C:\Users\aligu\Desktop\proje\proje\proje\bin\Debug\proje.pdb
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.Camlar.resources
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.Giriş.resources
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.Menü.resources
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.exe
+C:\Users\aligu\Desktop\proje\proje\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\proje\proje\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\Ramazan\Desktop\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\Ramazan\Desktop\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\Ramazan\Desktop\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\Ramazan\Desktop\projeUpdate1.3\projeUpdate1.2\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.3\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.4\projeUpdate1.4\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\bin\Debug\Database1.mdf
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\bin\Debug\Database1_log.ldf
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\bin\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\bin\Debug\proje.application
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.TrustInfo.xml
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\Yeni klasör (3)\projeUpdate\proje\obj\Debug\proje.application
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.application
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.TrustInfo.xml
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.application
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\bin\Debug\Database1.mdf
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\bin\Debug\Database1_log.ldf
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe.manifest
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.application
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Yardım.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.TrustInfo.xml
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.exe.manifest
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.application
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.6\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\bin\Debug\Database1.mdf
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\bin\Debug\Database1_log.ldf
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.application
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Yardım.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.TrustInfo.xml
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.application
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\Ramazan\Desktop\Final\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Yardım.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\obj\Debug\proje.Firmalar.resources
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\bin\Debug\Database1.mdf
+C:\Users\Ramazan\Desktop\ProjeGüncel\projeUpdate\proje\bin\Debug\Database1_log.ldf
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\bin\Debug\Database1.mdf
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\bin\Debug\Database1_log.ldf
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.exe.manifest
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.application
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Firmalar.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Yardım.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.TrustInfo.xml
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.exe.manifest
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.application
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\aligu\Documents\projeUpdate1.7\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\Database1.mdf
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.application
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Firmalar.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Yardım.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.TrustInfo.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.application
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.Veritabanı.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.ResolveComReference.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ExcelDataReader.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ExcelDataReader.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ExcelDataReader.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\obj\Debug\proje.csproj.CopyComplete
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ClosedXML.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ClosedXML.Report.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\MoreLinq.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\System.IO.Packaging.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\System.ValueTuple.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ClosedXML.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ClosedXML.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\MoreLinq.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\System.ValueTuple.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7\projeUpdate\proje\bin\Debug\Database1_log.ldf
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.csproj.ResolveComReference.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Camlar.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Firmalar.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Giriş.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Menü.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Muhasebe.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Müşteriler.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Veritabanı.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Yardım.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Çerçeveler.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.Ödeme.resources
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.exe
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\Database1.mdf
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\Database1_log.ldf
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\proje.exe.config
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\proje.application
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\proje.exe
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\proje.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ClosedXML.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ClosedXML.Report.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ExcelDataReader.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\MoreLinq.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\System.IO.Packaging.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\System.ValueTuple.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ClosedXML.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ClosedXML.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ExcelDataReader.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ExcelDataReader.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\MoreLinq.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\System.ValueTuple.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.TrustInfo.xml
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.exe.manifest
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.application
+C:\Users\Ramazan\Desktop\projeUpdate1.7 - Kopya\projeUpdate\proje\obj\Debug\proje.csproj.CopyComplete
